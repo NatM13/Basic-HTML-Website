@@ -4,7 +4,7 @@ Este proyecto es una estructura básica de un sitio web utilizando HTML.
 
 ## Enlace al proyecto
 
-[Visita la página del proyecto aquí](https://tu-usuario.github.io/nombre-del-repositorio)
+https://github.com/NatM13/Basic-HTML-Website.git
 
 ## Descripción
 
