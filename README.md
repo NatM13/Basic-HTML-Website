@@ -6,6 +6,9 @@ Este proyecto es una estructura básica de un sitio web utilizando HTML.
 
 [Accede al repositorio aquí](https://github.com/NatM13/Basic-HTML-Website.git)
 
+## Página del proyecto
+[Ver el proyecto en vivo aquí](https://NatM13.github.io/Basic-HTML-Website/)
+
 ## Descripción
 
 El objetivo de este proyecto es practicar cómo estructurar un sitio web utilizando HTML, con diferentes secciones como encabezado, pie de página, navegación, contenido principal, barras laterales, etc.
